@@ -53,6 +53,7 @@
 import HelloWorld from "../components/HelloWorld"
 import MyRender from "../components/myRender"
 import "./mytsTest"
+import "./mytsabc"
 import { onUpdated, onMounted, onBeforeUnmount, onUnmounted, onBeforeMount, computed, watchEffect, watch, ref, unref, reactive, shallowRef, shallowReactive, defineComponent, defineOptions, toRefs } from "vue"
 
 import { myAbcHook } from "./homeHook"
